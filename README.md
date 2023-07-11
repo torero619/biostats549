@@ -3,6 +3,58 @@
 
 # Module 2
 # Module 3
+
+## Exercises for Section 6.1 (Question 1) on page 196
+
+### 1. Use the Hospital charges worksheet in the file Chpt 4-1.xls.
+   
+   a. Calculate the mean and median for Age, LOS, and Charges by using the =AVERAGE() and =MEDIAN() functions.
+   
+   b. Based on these, in what direction are these distributions skewed, if at all?
+   
+   c. Calculate the variance and standard deviation of Age, LOS, and Charges by using the formulas in Equations 6.3 and 6.4.
+   
+   d. Calculate the variance and standard deviation of Age, LOS, and Charges by using the =VAR() and =STDEV() functions. Make sure that the results in (c) match those in (d)
+
+## Exercises for Section 6.2 (Questions 1) on page 208
+
+### 1. Use the Hospital charges worksheet in the file Chpt 4-1.xls.
+   
+   a. Based on the mean and standard deviation for LOS, generate a frequency distribution in terms of 1 standard deviation unit around the mean.
+   
+   b. Develop the Excel chart to show the frequency distribution generated in (a).
+
+## Exercises for Section 7.1 (Question 1) on page 243
+
+### 1. Using =TINV() and Equation 7.1, calculate the exact 95 percent upper and lower confidence limits for the following:
+
+   a. n = 40, mean = 32, S.E. = 1.23
+
+   b. n = 40, mean = 32, S.E. = 3.23
+
+   c. n = 140, mean = 32, S.E. = 1.23
+
+   d. n = 140, mean = 32, S.E. = 3.23
+
+## Exercises for Section 9.1 (Questions 1 and 2) on page 302
+
+### 1. Calculate the t value for the following hypotheses, given the sample outcomes indicated.
+
+   a. H0∶ 𝜇 = 11, H1∶ 𝜇 ≠ 11, x = 12.2 , standard deviation = 8.9, n ≠ 40.
+
+   b. H0∶ 𝜇 = 11, H1∶ 𝜇 ≠ 11, x = 14.0 , standard deviation = 8.9, n = 40.
+
+   c. H0∶ 𝜇 = 11, H1∶ 𝜇 ≠ 11, x = 13.7, standard deviation = 8.9, n = 40.
+
+   d. H0∶ 𝜇 = 234, H1∶ 𝜇 ≠ 234, x = 228.4, standard deviation = 40.53, n = 120.
+
+   e. H0∶ 𝜇 = 234, H1∶ 𝜇 ≠ 234, x = 226.4, standard deviation = 40.53, n = 120.
+
+   f. H0∶ 𝜇 = 234, H1∶ 𝜇 ≠ 234, x = 226.4, standard deviation = 40.53, n = 120.
+
+### 2. Determine the probability of t in each example in Exercise 1, and decide for each whether you would accept or reject H0.
+
+
 # Module 4
 ## 10.1 (Question 1)
 ### 1. Use the data on the Costs worksheet of Chpt 10–1.xls, and replicate the calculations in Figure 10.3.
