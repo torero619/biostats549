@@ -1,7 +1,90 @@
 # biostats549
 # Module 1
 
+## Exercises for Section 3.2 (Questions 1 & 2) on page 93
+
+### 1. Use the data set from Figure 3.2 (Chpt 3-1.xls) and do the following:
+
+   a. Use the =RAND() function to draw a random sample of 5 patients from the 20 patients given in the file.
+   
+   b. Use the uniform distribution option in the Data Analysis add-in to generate random numbers between 0 and 1, and use these numbers to select a simple random sample of 7 patients from the 20 in the file. Specify a random seed of 1325.
+   
+   c. Use the normal distribution option in the Data Analysis add-in to generate random numbers with a mean of 0 and a standard deviation of 1, and use these numbers to select a simple random sample of 10 patients from the 20 in the file. Specify a random seed of 7936.
+
+### 2. The file Chpt 3-2.xls contains data from the State and Metropolitan Area Data book for 1998 on nurses and health insurance coverage by state, plus the District of Columbia. Use the data from this file and do the following:
+
+   a. Use the =RAND() function to draw a random sample of 10 states from among all the states, including the District of Columbia.
+
+   b. Use the uniform distribution option in the Data Analysis add-in to generate random numbers between 1 and 100, and use these to select a random sample of 15 states from among all the states, including the District of Columbia. Specify a random seed of 1359.
+
+   c. Use the normal distribution option in the Data Analysis add-in to generate random numbers with a mean of 20 and a standard deviation of 4, and use these numbers to select a simple random sample of 10 states from among all the states, including the District of Columbia. Specify a random seed of 8109.
+
+
+
+## Exercises for Section 3.3 (Question 1) on page 107
+
+### 1. Using the data in Chpt 3-3.txt (this is the data set discussed in Section 3.3), do the following:
+
+a. Import the data to a spreadsheet by using the Text Import Wizard.
+
+b. Make the data century-correct as discussed in relation to Figure 3.15.
+
+c. Provide a label line above the data (it will become row 1) and label the data, as shown in Figure 3.16.
+
+d. Insert a column after DOD, as shown in Figure 3.17, and calculate the LOS for each observation.
+
+e. Insert a column after DOB and calculate Age for each person, as shown in Figure 3.18.
+
+f. Insert a column after Sex and create a variable Sex1, as shown in Figure 3.19.
+
+g. Save the result as an Excel file.
+
 # Module 2
+
+## Exercises for Section 4.1 (Question 1, a-f) on page 129
+
+### 1. Select the variable Age, and do the following:
+
+   a. Using the =MIN(), =MAX(), and =FREQUENCY() functions, replicate Figure 4.2.
+   
+   b. Using the results just obtained, generate the chart shown in Figure 4.8 and put in the relevant labels as shown in that chart. Show this chart on the spreadsheet.
+   
+   c. Modifying the data as shown in Figure 4.9, generate a line chart as shown in that figure, and show this chart on the spreadsheet.
+   
+   d. Create a bar chart as shown in Figure 4.10, and show it on the spreadsheet.
+   
+   e. Create a pie chart as shown in Figure 4.11, and modify it to look as much like that figure as possible; show this chart on the spreadsheet.
+   
+   f. Replicate the chart of Age and LOS as shown in Figure 4.12. Show this chart on the spreadsheet
+
+## Exercises for Section 4.2 (Questions 1 and 2) on page 135
+
+### 1. Use the variable Sex on the Hospital Charges sheet in Chpt 4-1.xls, and do the following.
+
+   a. Create a frequency distribution using the pivot table that replicates the one in Figure 4.23, using Count of Sex in the DATA field.
+
+   b. Create a frequency distribution using the pivot table that replicates the one in Figure 4.23, using Count of Age in the DATA field.
+
+   c. Is there any difference between the two tables you just created? Why or why not?
+
+### 2. Use the variable LOS on the Hospital Charges sheet in Chpt 4-1.xls, and do the following:
+
+   a. Using a nested =IF() function, create a new variable, LOS1, which will take on the value “Short” when LOS is less than 4 days, “Medium” when LOS is 4 days to 9 days, and “Long” when LOS is 10 days or more.
+
+   b. Create a frequency distribution of LOS1 using the pivot table.
+
+## Exercises for Section 4.3 (Questions 1 and 2) on page 140
+
+### 1. Use the data on the MS-DRG worksheet in Chpt 4-2.xls, and use the pivot table capability to replicate Figure 4.26.
+
+-pivot table of DRG Category, breakdown by sex
+
+### 2. Use the data on the Late Delivery worksheet in Chpt 4-2.xls, and do the following.
+   
+   a. Generate a cross-tabulation using the pivot table capability with Ward as the column heading and Reason as the row heading.
+   
+   b. Add a new variable, Reason1, to the Late Delivery worksheet, assigning Other as the label for all but the two most common reasons for late delivery, and generate a cross-tabulation with Ward as the column headings and the reasons in Reason1.
+
 # Module 3
 
 ## Exercises for Section 6.1 (Question 1) on page 196
