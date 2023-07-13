@@ -46,7 +46,11 @@ g. Save the result as an Excel file.
 ### 1. Select the variable Age, and do the following:
 
    a. Using the =MIN(), =MAX(), and =FREQUENCY() functions, replicate Figure 4.2.
-   
+
+```diff
+! use Data Analysis>Histogram function
+```
+
    b. Using the results just obtained, generate the chart shown in Figure 4.8 and put in the relevant labels as shown in that chart. Show this chart on the spreadsheet.
    
    c. Modifying the data as shown in Figure 4.9, generate a line chart as shown in that figure, and show this chart on the spreadsheet.
@@ -90,7 +94,10 @@ g. Save the result as an Excel file.
 ## Exercises for Section 6.1 (Question 1) on page 196
 
 ### 1. Use the Hospital charges worksheet in the file Chpt 4-1.xls.
-   
+
+```diff
+! use Data Analysis>Descriptive Statistics function
+```
    a. Calculate the mean and median for Age, LOS, and Charges by using the =AVERAGE() and =MEDIAN() functions.
    
    b. Based on these, in what direction are these distributions skewed, if at all?
@@ -142,6 +149,9 @@ g. Save the result as an Excel file.
 ## 10.1 (Question 1)
 ### 1. Use the data on the Costs worksheet of Chpt 10–1.xls, and replicate the calculations in Figure 10.3.
 
+```diff
+! Can use Data Analysis>One Way Anova function
+```
 
    a. Use a pivot table and the formula in Equation 10.1 to calculate the between group sum of squares (SSB) for the costs in the four hospitals.
 
