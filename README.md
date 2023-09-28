@@ -1,4 +1,6 @@
 # biostats549
+[Textbook](https://iro.uiowa.edu/esploro/outputs/textbook/9984376757802771)
+
 # Module 1
 
 ## Exercises for Section 3.2 (Questions 1 & 2) on page 93
