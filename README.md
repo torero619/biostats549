@@ -193,3 +193,11 @@ $$F= \frac{MS_B}{MS_W}$$
    b. Test the hypothesis that the cost for women is equal to the cost for men (against the alternative that they are not equal) using regression.
 
 # Module 5
+This lab assignment will assist you in demonstrating your understanding of data visualization. These exercises focus on data visualization with two variables.
+
+After completing the assigned readings for this module, use Excel and the Exercise 4.1 data file, and complete the following activities:
+
+Create the following charts (bar or line charts) Why is it not a good idea to use Pie Charts? What should we use instead?
+Gender and LOS
+Gender and charges
+LOS and Charges
