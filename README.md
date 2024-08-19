@@ -2,11 +2,11 @@
 
 In order to participate in classwork and complete the assigned homework you must have the following
 
-- Windows 10 or 11
+- Windows 10 or 11 (Windows 11 Pro is best)
 
 - Excel...most recent version can be found on [Office Download](portal.office.com)
 
-- at least 16Gb Memory
+- at least 16Gb Memory (more is better though)
 
 ```diff
 ! DISCLAIMER: the linked laptops are NOT a guarantee that they meet the specifications
