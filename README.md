@@ -21,3 +21,6 @@ I have had good luck using refurbushed business class laptops from Lenovo and De
 
 - [Dell Refurbished](https://outlet.us.dell.com/ARBOnlineSales/Online/InventorySearch.aspx?c=us&cs=28&l=en&s=dfb&brandid=2801&sign=bnBYA0tousJ0J3I4SO0lLzZs55m78B7NewjWtvAY2cul8AtYdkDY0zgDQfd3axB45CLcZBVZnE21kSWb0grH7S%2f9fAgOScEQXSMYDx8jWQxe6jtr7Gm3BOXIsu64FOmSY%2bH4ffbUPjjT%2f3bryETf3P7ZssdtDpuiT6v566e9tbjHTXVVDWBKVHnf9W1qZ1lxW7XoqNM8GnAc56eHod%2bmidEk5pflpScFTjGME1E1PzvJtp4Pp%2fHzGTTvBM1IdLCslxef9uZeni%2fCfMvCgXiTneWlRis799j0Nf7Bdf93wdRYp3%2f73g%2fgcDzZOxtzmIe%2bKEpqkLVxw0DLuVO2vNk7PYz4GIu%2fKTXTsFXtBnxKLuW8G3mCk7WUqqAS4tXEuBt4)
 
+
+
+Optional: Install [Azure Data Studio](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#download-azure-data-studio)
