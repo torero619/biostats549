@@ -4,7 +4,7 @@ In order to participate in classwork and complete the assigned homework you must
 
 - Windows 10 or 11 (Windows 11 Pro is best)
 
-- Excel...most recent version can be found on [Office Download](portal.office.com)
+- Excel...most recent version can be found on [Office Download](https://portal.office.com/)
 ![image](https://github.com/user-attachments/assets/e4ee110d-ad52-49e2-b6a4-d93bbe802f7b)
 
 
