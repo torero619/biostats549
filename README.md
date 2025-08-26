@@ -2,13 +2,13 @@
 
 In order to participate in classwork and complete the assigned homework you must have the following
 
-- Windows 10 or 11 (Windows 11 Pro is best)
-
+- Windows 11
+  
 - Excel...most recent version can be found on [Office Download](https://portal.office.com/)
 ![image](https://github.com/user-attachments/assets/e4ee110d-ad52-49e2-b6a4-d93bbe802f7b)
 
 
-- at least 16Gb Memory (more is better though)
+- at least 32Gb Memory (more is better though)
 
 ```diff
 ! DISCLAIMER: the linked laptops are NOT a guarantee that they meet the specifications
@@ -23,4 +23,13 @@ I have had good luck using refurbushed business class laptops from Lenovo and De
 
 
 
-Optional: Install [Azure Data Studio](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#download-azure-data-studio)
+## Additional Installs
+
+Install [VS Code](https://code.visualstudio.com/download)
+- Extensions: mssql
+
+
+Install PowerBI Dekstop (through Microsoft Store)
+
+
+Optional (if using Python): [Anaconda](https://www.anaconda.com/download/success) 
